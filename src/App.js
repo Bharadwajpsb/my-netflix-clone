@@ -9,12 +9,14 @@ axios.defaults.params = {
   api_key: "6454d89405181c054743fb941d955adf",
 };
 
-
 const App = () => {
   return (
     <div>
+      {/* Nav Component */}
       <Nav />
+      {/* Header background image with buttons and title */}
       <Header />
+      {/* Content with movies */}
       <Content />
     </div>
   );

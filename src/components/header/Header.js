@@ -1,6 +1,7 @@
 import './Header.css';
 
 function Header() {
+  // url for latest movies - /latest
   return (
     <header>
       <div className='header_inner_shadow'></div>

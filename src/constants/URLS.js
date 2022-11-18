@@ -27,6 +27,14 @@ const RowData = [
     title: 'Romance',
     url: '/discover/movie?with_genres=10749',
   },
+  {
+    title: 'Documentaries',
+    url: '/discover/movie?with_genres=99',
+  },
+  {
+    title: 'Sci-Fi',
+    url: '/discover/movie?with_genres=878',
+  }
 ];
 
 
